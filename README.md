@@ -1,4 +1,5 @@
-Shopify (Buy T-shirts Online) (Next.js & TypeScript)
+Shopify (Buy T-shirts Online)
+(Next.js & TypeScript)
 
 A modern, dynamic product customizer built with **Next.js**, allowing users to configure a product (like a T-shirt) based on size, color, and quantity, with **real-time price calculation** and **state persistence**.
 
